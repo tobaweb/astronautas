@@ -1,0 +1,53 @@
+{
+    "astronautas" : [
+        {
+            "Avatar" : "https://notasdemascotas.com/wp-content/uploads/2020/07/Cheems-perro-famoso.jpg" , 
+            "Nombre" : "Cheem",
+            "Edad": "10",
+            "Cargo" : "Capitan",
+            "Titulo" : "Astronauta",
+            "Color Favorito" : "Rojo",
+            "Descripcion" : "Me llamo Cheem soy el capitan de mi flota astronauta y estoy a cargo de las misiones mas importantes de la NASA",
+        }, {
+            "Avatar" : "https://gasfiteronline.cl/astronautas/perro-fachero.jpg" , 
+            "Nombre" : "Perro Fachero",
+            "Edad": "13",
+            "Cargo" : "Tripulante",
+            "Titulo" : "Astronauta",
+            "Color Favorito" : "Verde",
+            "Descripcion" : "Mejor amigo de Cheem, tripulante de la mision y encargado de las mantenciones de la nave",
+        }, {
+            "Avatar" : "https://media.istockphoto.com/photos/dog-in-space-suit-hunts-dog-food-hunt-picture-id925171128?k=6&m=925171128&s=612x612&w=0&h=GN4OT8iW__bxWvV6VBLwDVs7p7Q1DektIOniX9QByrE=" , 
+            "Nombre" : "Pug",
+            "Edad": "15",
+            "Cargo" : "Navegante",
+            "Titulo" : "Astronauta",
+            "Color Favorito" : "Negro",
+            "Descripcion" : "Soy el mas veterano de la nave, mi mision es manejar la nave y llevarnos a salvo a nuestro destino",
+        }, {
+            "Avatar" : "https://yt3.ggpht.com/pHDT_LppTIHbLHDMT8ZhabDxjuX_vGJXs_Y_tNBj_1t4oEnBGh34M9jMB0Cjptd4ID6t8A2boQ=s900-c-k-c0x00ffffff-no-rj" , 
+            "Nombre" : "Washington",
+            "Edad": "13",
+            "Cargo" : "Guardaespalda",
+            "Titulo" : "Protector",
+            "Color Favorito" : "Cafe",
+            "Descripcion" : "Soy quien protege a los tripulantes de la nave de todos los extraterrestres del espacio",
+        }, {
+            "Avatar" : "https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg" , 
+            "Nombre" : "Neil Armstrong",
+            "Edad": "40",
+            "Cargo" : "Ayudante",
+            "Titulo" : "Astronauta",
+            "Color Favorito" : "Rosado",
+            "Descripcion" : "Ayudante de la tripulacion, se encarga de llevarles bebidas al capitan cheem y abastecerlo con comida",
+        }, {
+            "Avatar" : "data:image/jpeg;base64,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" , 
+            "Nombre" : "Ralf",
+            "Edad": "13",
+            "Cargo" : "Guia",
+            "Titulo" : "Astronauta",
+            "Color Favorito" : "Morado",
+            "Descripcion" : "Guia de ruta para llegar a la luna en el espacio.",
+        }
+    ]
+}
